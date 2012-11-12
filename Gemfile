@@ -11,7 +11,7 @@ gem 'therubyracer'
 gem 'less-rails'
 gem 'twitter-bootstrap-rails'
 gem 'simple_form'
-gem 'link_to_action'
+gem 'link_to_action', path: '~/forks/link_to_action'
 
 # Gems used only for assets and not required
 # in production environments by default.
