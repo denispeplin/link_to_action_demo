@@ -3,7 +3,7 @@ LinkToAction.setup do |config|
   # config.use_cancan = false
 
   # Add icons to links, default false
-  # config.use_icons = false
+  config.use_icons = true
 
   # Place icons to left, default true
   # config.icons_place_left = true
@@ -21,7 +21,7 @@ LinkToAction.setup do |config|
   # config.icon_back = 'undo'
 
   # Use classes, default false
-  # config.use_classes = false
+  config.use_classes = true
 
   # Append classes when :class option is specified, default false
   # config.classes_append = false
@@ -44,7 +44,7 @@ LinkToAction.setup do |config|
 
   # Methods for link_to_show
   # config.show_methods = [ :name, :to_s ]
-  
+
   # Destroy link options
   # config.destroy_confirm = true
   # config.destroy_skip_pjax = false
