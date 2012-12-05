@@ -1,8 +1,3 @@
-PATH
-  remote: ~/forks/link_to_action
-  specs:
-    link_to_action (0.2.5)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -59,6 +54,7 @@ GEM
       actionpack (>= 3.1)
       less (~> 2.2.0)
     libv8 (3.3.10.4)
+    link_to_action (0.3.0)
     mail (2.4.4)
       i18n (>= 0.4.0)
       mime-types (~> 1.16)
@@ -128,7 +124,7 @@ DEPENDENCIES
   coffee-rails (~> 3.2.1)
   jquery-rails
   less-rails
-  link_to_action!
+  link_to_action
   rails (= 3.2.9)
   sass-rails (~> 3.2.3)
   simple_form
