@@ -1,4 +1,4 @@
-{link_to_action}(https://github.com/denispeplin/link_to_action) sample application.
+[link_to_action](https://github.com/denispeplin/link_to_action) sample application.
 
 ## Installation
 
